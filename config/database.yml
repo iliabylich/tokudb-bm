@@ -1,4 +1,4 @@
-host: localhost
+host: 139.162.220.78
 username: root
 password: root
 database: tokudb_test
